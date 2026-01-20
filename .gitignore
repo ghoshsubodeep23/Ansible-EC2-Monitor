@@ -1,0 +1,9 @@
+# Ansible sensitive files
+group_vars/all.yaml
+*.retry
+*.log
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
