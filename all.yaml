@@ -1,0 +1,6 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "subodeepghosh2001@gmail.com"
+email_pass: "vfye phcb asrk hgqh"
+alert_recipient: "ghoshsubodeep23@gmail.com" 
+
